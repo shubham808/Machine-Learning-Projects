@@ -6,13 +6,13 @@ Resources Needed
 Python
 Sklearn
 
-###Some relevant files: 
+# Some relevant files
 
 enron_poi_prediction.py : Main prediction File 
 
 tester.py to check results
 
-###Kinds of Features
+# Kinds of Features
 
 The features in the data fall into three major types, namely financial features, email features and POI labels.
 
